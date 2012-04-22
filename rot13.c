@@ -7,8 +7,6 @@
 //For turning in
 //#define debug(...)
 
-// Test comment, please ignore
-
 int main( int argc, char ** argv ) {
 	char c;
 	while( EOF != (c = getchar())) {
